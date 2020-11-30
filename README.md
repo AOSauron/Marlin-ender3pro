@@ -2,6 +2,8 @@
 
 ## Warning : _**Marlin fork for custom ender 3 pro with SKR MINI E3 v1.2 motherboard**_
 
+## Note : _**Motherboard updated to SKR MINI E3 v2.0*_
+
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
